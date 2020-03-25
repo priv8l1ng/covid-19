@@ -16,3 +16,15 @@
 <p>- python3 corona.py </p>
 <hr>
 <h2>How To Use Command : </h2>
+[+] Command:<br>
+    python/2/3 corona.py {option}<br>
+    python/2/3 corona.py {country}
+
+[+] Options:
+    -s, --save    = save result to file
+    -h, --help    = Help
+    -a, --about   = About
+    -c, --country = show all country list
+
+[+] Country:
+        Detect All Country Bro
