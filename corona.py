@@ -29,7 +29,7 @@ def banner(help=False, about=False):
 """)
         if about == True:
                 print ("""
-\u001b[31mAuhor      : \u001b[0mMuhammad Lingga
+\u001b[31mAuthor      : \u001b[0mMuhammad Lingga
 \u001b[31mVersion    : \u001b[0mBeta Tester
 \u001b[31mName       : \u001b[0mCorona Virus Info (Covid-19 Info)
 \u001b[31mThanks     : \u001b[0mGods and all my friend
